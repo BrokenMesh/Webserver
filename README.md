@@ -4,7 +4,7 @@
 <h3 align="center">Hichams Web-Server</h3>
 
   <p align="center">
-    This is a simple Web-Server based on the Dot.Net framework. It uses the basic networking to create deploy a website. It also allows somewhat dynamic content. 
+    This is a simple Web-Server based on the Dot.Net framework. It uses basic networking to create deploy a website. It also allows somewhat dynamic content. 
     <br />
     <a href="https://github.com/BrokenMesh/Webserver/issues">Report Bug</a>
     ·
@@ -15,9 +15,6 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Installation
 1. Clone the repo
@@ -38,18 +35,18 @@ Start a simple HTTP server on port 8080.
 HTTPServer _server = new HTTPServer(8080); 
 _server.Start();
 ```
-The HTML files are located int the Bin-Dep/root/web folder. this folder will be copied into the build directory in a post-build event.
+The HTML files are located int the `Bin-Dep/root/web` folder. this folder will be copied into the build directory in a post-build event.
 
 ---
 <br>
 
-This will create a DynamicServer. This server type can change its content somewhat dynamically. Its files are located in the Bin-Dep/root/dyn folder.
+This will create a DynamicServer. This server type can change its content somewhat dynamically. Its files are located in the `Bin-Dep/root/dyn` folder.
 
 ```C#
 DynamicServer _server = new DynamicServer(8080); 
 ```
 
-This will add an Element. If the server finds an Element Pointer with the same name it will call the lambda function and replace the Pointer with what the lambda returns. 
+This will add an Element. If the server finds an Element Pointer with the same nam, it will call the lambda function and replace the Pointer with what the lambda returns. 
 ```C#
 _server.AddElement("Title", (string _action) => {
       return "<h1>Hello, World!</h1>";
