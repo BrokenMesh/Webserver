@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\elkor\\Documents\\Projects\\ICT\\320\\Projects\\Webserver\\Webserver\\Webserver.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\elkor\\Documents\\Projects\\ICT\\320\\Projects\\Webserver\\Webserver\\Webserver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\elkor\\Documents\\Projects\\ICT\\320\\Projects\\Webserver\\Webserver\\Webserver.csproj",
+        "projectName": "Webserver",
+        "projectPath": "D:\\Users\\elkor\\Documents\\Projects\\ICT\\320\\Projects\\Webserver\\Webserver\\Webserver.csproj",
+        "packagesPath": "D:\\Users\\elkor\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\elkor\\Documents\\Projects\\ICT\\320\\Projects\\Webserver\\Webserver\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\elkor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

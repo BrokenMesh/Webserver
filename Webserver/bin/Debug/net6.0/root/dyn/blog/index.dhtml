@@ -1,0 +1,29 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Blog</title>
+</head>
+<body>
+
+    <div class="page">
+
+        <div class="header">
+            <h1>Hicham's Blog</h1>
+            <a href="create_post.dhtml">Create Blog</a>
+        </div>
+
+        <div class="content">
+
+            $_eptr="Elements"
+
+            <br><br><br>
+
+        </div>
+
+        <div class="footer">
+            <h3>Footer</h3>
+        </div>
+    </div>
+
+</body>
+</html>

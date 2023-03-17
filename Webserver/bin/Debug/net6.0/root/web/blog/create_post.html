@@ -1,0 +1,42 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script src="create_post.js"></script>
+    <title>Create Post</title>
+</head>
+<body>
+
+    <div class="page">
+
+        <div class="header">
+            <h1>Hicham's Blog - Create Post</h1>
+            <a href="index.html">Back to Blog</a>
+        </div>
+
+        <div class="content">
+            
+            <form id="postform">
+                <h2>Create Post</h2>
+                <table>
+                    <tr>
+                        <td class="formlable">Name: </td>
+                        <td><input class="formelem" type="text" id="name" placeholder="Enter you name ..."></td>
+                    </tr>
+                    <tr>
+                        <td class="formlable">Post: </td>
+                        <td><textarea class="formelem" id="post" placeholder="Enter you post ..." ></textarea></td>
+                    </tr>
+                </table>
+                <button onclick="submitPost(); return false;" class="formelem" type="submit">Post</button>
+                <p id="error" class="formerror"></p>
+            </form>
+
+        </div>
+
+        <div class="footer">
+            <h3>Footer</h3>
+        </div>
+    </div>
+
+</body>
+</html>

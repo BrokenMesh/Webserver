@@ -1,0 +1,169 @@
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    min-height: 90%;
+
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    background-color: rgb(85, 85, 85);
+    color: white;
+
+    padding: 20px;
+    width: 100%;
+    height: 80px;
+
+    box-sizing: border-box;
+}
+
+.header > h1 {
+    font-weight: 500;
+
+    float: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header > a {
+    font-weight: 600;
+    text-decoration: none;
+
+    color: black;
+    background-color: rgb(0, 211, 0);
+
+    border-radius: 5px;
+
+    float: right;
+    padding: 7px;
+
+    transition-duration: 0.3s;
+}
+
+.header > a:hover {
+    background-color: rgb(0, 161, 0);
+}
+
+.footer {
+    text-align: center;
+
+    background-color: rgb(85, 85, 85);
+    color: white;
+
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+
+    height: 60px;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+
+    padding: 10px;
+    padding-bottom:50px;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.element {
+    background-color: aliceblue;
+    box-shadow: 3px 3px 5px lightgray;
+    
+    align-self: center;
+
+    width: 700px;
+    height: auto;
+
+    margin: 20px;
+    padding: 20px;
+}
+
+.element > p > b {
+    font-size: large;
+
+}
+
+.element > p > i {
+    font-weight: 400;
+    font-style: normal;
+}
+
+form {
+    background-color: aliceblue;
+    box-shadow: 3px 3px 5px lightgray;
+    
+    align-self: center;
+
+    width: 700px;
+    height: auto;
+
+    margin: 20px;
+    padding: 20px;
+}
+
+form > table {
+    width: 100%;
+}
+
+.formlable {
+    border-right: 3px solid lightblue ;
+
+    text-align: right;
+    vertical-align: top;
+
+    width: 50px;
+
+    padding: 3px;
+}
+
+.formelem {
+    border: 1px solid lightblue;
+
+    padding: 5px;
+}
+
+textarea.formelem {
+    width: 100%;
+    height: 200px;
+}
+
+button.formelem {
+    font-weight: 600;
+    text-decoration: none;
+    border: none;
+
+    color: black;
+    background-color: rgb(81, 255, 81);
+
+    border-radius: 5px;
+
+    float: right;
+    padding: 7px;
+
+    transition-duration: 0.3s;
+}
+
+button.formelem:hover {
+    background-color: rgb(28, 223, 28);
+}
+
+.formerror {
+    font-weight: 600;
+    color: red;
+}

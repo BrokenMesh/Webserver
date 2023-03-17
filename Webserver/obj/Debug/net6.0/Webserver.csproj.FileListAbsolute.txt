@@ -1,0 +1,15 @@
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\bin\Debug\net6.0\Webserver.exe
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\bin\Debug\net6.0\Webserver.deps.json
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\bin\Debug\net6.0\Webserver.runtimeconfig.json
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\bin\Debug\net6.0\Webserver.dll
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\bin\Debug\net6.0\Webserver.pdb
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\Webserver.csproj.AssemblyReference.cache
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\Webserver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\Webserver.AssemblyInfoInputs.cache
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\Webserver.AssemblyInfo.cs
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\Webserver.csproj.CoreCompileInputs.cache
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\Webserver.dll
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\refint\Webserver.dll
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\Webserver.pdb
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\Webserver.genruntimeconfig.cache
+D:\Users\elkor\Documents\Projects\ICT\320\Projects\Webserver\Webserver\obj\Debug\net6.0\ref\Webserver.dll
