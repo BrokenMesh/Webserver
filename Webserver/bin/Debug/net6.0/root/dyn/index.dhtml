@@ -1,8 +1,7 @@
 <html>
     <head>
-        <title> Server Demo</title>
+        <title>Server Demo</title>
         <link rel="stylesheet" href="style.css">
-        <script src="script.js"></script>
     </head>
     <body >
         <h1 id=title>Server Demo</h1> 
@@ -11,15 +10,4 @@
         <a href="/blog/index.dhtml">Blog</a>
     </body>
 
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-</head>
-<body>
-    
-</body>
 </html>
