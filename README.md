@@ -6,9 +6,9 @@
   <p align="center">
     This is a simple Web-Server based on the Dot.Net framework. It uses the basic networking to create deploy a website. It also allows somewhat dynamic content. 
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/BrokenMesh/Webserver/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/BrokenMesh/Webserver/issues">Request Feature</a>
   </p>
 </div>
 
