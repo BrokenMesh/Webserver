@@ -4,7 +4,7 @@
 <h3 align="center">Hichams Web-Server</h3>
 
   <p align="center">
-    This is a simple Web-Server based on the Dot.Net framework. It uses basic networking to create deploy a website. It also allows somewhat dynamic content. 
+    This is a simple Web-Server based on the Dot.Net framework. It uses basic networking to deploy a website. It also allows somewhat dynamic content. 
     <br />
     <a href="https://github.com/BrokenMesh/Webserver/issues">Report Bug</a>
     ·
