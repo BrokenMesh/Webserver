@@ -46,7 +46,7 @@ This will create a DynamicServer. This server type can change its content somewh
 DynamicServer _server = new DynamicServer(8080); 
 ```
 
-This will add an Element. If the server finds an Element Pointer with the same nam, it will call the lambda function and replace the Pointer with what the lambda returns. 
+This will add an Element. If the server finds an Element Pointer with the same name, it will call the lambda function and replace the Pointer with what the lambda returns. 
 ```C#
 _server.AddElement("Title", (string _action) => {
       return "<h1>Hello, World!</h1>";
